@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=https://i.imgur.com/Tv720iR.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Tedzo555"><img title="Author" src="https://img.shields.io/badge/Author-Tedzo555/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/Amal-ser">Tedzo555</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,9 +29,8 @@ Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
-
-
+<img src=https://www.transparentpng.com/thumb/logo-instagram/JFyofc-logo-instagram-background-png.png><https://instagram.com/a_s_l_a_m_._x?utm_medium=copy_link>
+https://instagram.com/a_s_l_a_m_._x?utm_medium=copy_link
   ### Simple Method
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tedzo555/Amalser.git)
