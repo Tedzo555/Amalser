@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/Amal-ser">Tedzo555</a> to make it
 https://instagram.com/a_s_l_a_m_._x?utm_medium=copy_link
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tedzo555/Amalser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tedzo555/Amalser-1.git)
 
 
 
