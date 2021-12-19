@@ -55,10 +55,10 @@ $ node Amalser.js
    
 
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/Tedzo555/Amalser
 $ cd tedzo
 $ npm i
-$ node Amalser.js
+$ node .js
 ```
 
 ----
