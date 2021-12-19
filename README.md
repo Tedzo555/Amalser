@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Amal-ser">Tedzo555</a> to make it
 <div align="center"> 
 
 
-## Click Youtube logo to Watch JOIN THIS GROUP PASSWORD IN GROUP 🔧👇
+## CLICK LOGO TO JOIN THIS GROUP PASSWORD IN GROUP 🔧👇
 
  [![ANY DOUBT REFER IT](https://pngimg.com/uploads/telegram/telegram_PNG33.png)](https://t.me/+qpzrlYi1MWIyNTI9)
 
